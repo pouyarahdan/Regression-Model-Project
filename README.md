@@ -104,7 +104,9 @@ selling_price = intercept + (c1 * age) + (c2 * present_price) + ...
 📬 Contact
 
 Developed with 💻 and ☕ by Pouya Rahdan
+
 📧 pouya.rahdan5@gmail.com
+
 🔗 GitHub: github.com/pouyarahdan
 
 
